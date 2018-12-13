@@ -1,29 +1,7 @@
+
+#本项目来源于： https://gitee.com/stylefeng/roses
+##此处只作为个人研究  
 # Roses v2.0
-
----
-
-Roses基于`Spring Boot 2`和`Spring Cloud Finchley
-.RELEASE`，致力做更简洁的**分布式**和**服务化**解决方案，Roses拥有高效率的开发体验，提供可靠消息最终一致性分布式事务解决方案，提供基于调用链的服务治理，提供可靠的服务异常定位方案（Log + Trace）等等，**一个分布式框架不仅需要构建高效稳定的底层开发框架，更需要解决分布式带来的种种挑战**
-
-## 2018年度最受欢迎开源软件评选
-Guns（Roses最初的起源）在行业多年始终坚持免费原则，也是一直在坚持维护系统。在Guns成长的这段期间，我在此真诚的感谢支持Guns，一直不停为Guns完善做出贡献的朋友们，因为有你们Guns才一点一点的变得越来越好。
-这次Guns参加了中国最受欢迎开源项目评比，目的就是让更多的人认识Guns、了解Guns、使用Guns。
-请大家帮忙投上一票，为我们的项目助力！
-https://www.oschina.net/project/top_cn_2018?sort=1
-
-### Roses 2.0更新内容
-
-拆分了子项目，在多个git仓库中单独维护。新加了很多功能，详情见各个子项目和下边的业务介绍。
-
-**Roses项目组**地址：[https://gitee.com/stylefeng-Roses](https://gitee.com/stylefeng-Roses)
-
-### 交流&学习
-
-有任何疑问和建议，不妨加入Roses的交流群`684163663`或者`207434260`一起交流学习！
-
-开源不易，如果Roses项目可以帮助到您，请多star & fork ~~~
-
----
 
 ## Roses子项目介绍
 
